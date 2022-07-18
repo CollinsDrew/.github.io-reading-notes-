@@ -1,4 +1,4 @@
-# .github.io-reading-notes-
+# reading-notes
 
 #H1 What is Growth Mindset?
 
