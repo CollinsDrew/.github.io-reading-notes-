@@ -10,4 +10,4 @@ How i remind myself to stay in a *growth mindset* is to
 2. remember the word **yet**. instead of thinking that im not very good at something, i remember to add the word **yet** at the end of that sentence.
 3. i value the process of learning and not just the end result.
 
-![alt text](growthmindset.jpg)
+![alt text](growthmindset.png)
