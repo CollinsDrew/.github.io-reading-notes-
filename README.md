@@ -11,3 +11,7 @@ How i remind myself to stay in a *growth mindset* is to
 3. i value the process of learning and not just the end result.
 
 ![alt text](growthmindset.png)
+
+## table of contents
+
+1. [link 1](
