@@ -11,4 +11,4 @@ CSS is a rule-based language — you define the rules by specifying groups of st
 
 ![CSS Syntax](css-syntax.png)
 
-
+Here, we are saying to make the H1 tag blue in color, and italic in font type.
