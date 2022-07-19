@@ -14,4 +14,4 @@ How i remind myself to stay in a *growth mindset* is to
 
 ## table of contents
 
-1. [link 1](
+1. [link 1](https://github.com/CollinsDrew/reading-notes/tree/main/class_01)
