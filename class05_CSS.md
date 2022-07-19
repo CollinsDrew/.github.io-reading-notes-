@@ -9,4 +9,6 @@ CSS is a rule-based language — you define the rules by specifying groups of st
 
 ## Example
 
+![CSS Syntax](css-syntax.png)
+
 
