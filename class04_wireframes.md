@@ -10,3 +10,4 @@
  - Mock-up
  - Prototype
 
+![design process](designprocess.jpeg)
