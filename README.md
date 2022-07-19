@@ -15,6 +15,6 @@ How i remind myself to stay in a *growth mindset* is to
 ## table of contents
 
 1. [Class 01](https://github.com/CollinsDrew/reading-notes/tree/main/class_01)
-2. [Class 02] (https://github.com/CollinsDrew/reading-notes/tree/main/102)
-3. [Class 03]
+2. [Class 02](https://github.com/CollinsDrew/reading-notes/tree/main/102)
+3. [Class 03](https://github.com/CollinsDrew/reading-notes/tree/main/103
 4. [Class 04]
