@@ -1,6 +1,6 @@
 # reading-notes
 
-#H1 What is Growth Mindset?
+## What is Growth Mindset?
 
 **Growth Mindset** is the a growth mindset is an approach to life in which an individual believes that their talents, intelligence, and abilities can be developed further.
 people with a growth mindset have a passion to lear and gain new skills.
