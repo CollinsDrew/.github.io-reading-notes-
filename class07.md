@@ -26,7 +26,7 @@ Arithmetic operators are used to perform arithmetic on numbers:
 | -------- | ----------- |
 | + | addition |
 | - | subtraction |
-| * | multip;ication |
+| * | multiplication |
 | ** | Exponentiation |
 | / | division |
 | % | Modulus (Division Remainder) |
